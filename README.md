@@ -1,2 +1,20 @@
-# digital-banking-platform
-Full-stack digital banking platform built with Java, Spring Boot, React, MySQL, Spring Security, JWT, and Docker.
+digital-banking-platform/
+│
+├── backend/
+│   ├── src/
+│   ├── pom.xml
+│   └── Dockerfile
+│
+├── frontend/
+│   ├── src/
+│   ├── package.json
+│   └── Dockerfile
+│
+├── docs/
+│   ├── architecture.png
+│   ├── database-schema.png
+│   └── api-documentation.png
+│
+├── docker-compose.yml
+├── README.md
+└── .gitignore
